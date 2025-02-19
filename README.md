@@ -142,10 +142,10 @@ When the script is executed:
 ```
 CyberScope/
 │
-├── CyberScope.sh               # Main script containing all functions
-├── README.md                 # This file (project documentation)
-├── LICENSE                   # Project license (optional)
-└── ...                       # Additional files if needed
+├── CyberScope.sh              
+├── README.md                
+├── LICENSE                   
+└── ...                     
 ```
 
 **Key Functions** within `CyberScope.sh`:
@@ -160,6 +160,3 @@ CyberScope/
 
 ---
 
-## **License**
-
-You may include your chosen license here (e.g., MIT, GPL v3, etc.). If you choose not to add one, the project defaults to no explicit license.
