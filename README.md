@@ -65,7 +65,7 @@ Ensure these packages are installed before running CyberScope. If the script det
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/CyberScope.git
+   git clone https://github.com/khunixx/CyberScope.git
    ```
    > Replace `your-username` with your actual GitHub username.
 
